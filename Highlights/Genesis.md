@@ -1,11 +1,11 @@
-### Scripture: Genesis 1:5 KJV
+## Scripture: Genesis 1:5 KJV
 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 
 ### Comments
 Durring creation God made it so that it is, night then day... one day
 
 ##### TAGS
-\#creation
+> #creation
 
 ___
 
@@ -14,10 +14,10 @@ ___
 Then God said, “Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.” Thus God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament; and it was so. And God called the firmament Heaven. So the evening and the morning were the second day.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#flatearth
+> #flatearth
 
 ___
 
@@ -29,7 +29,7 @@ And God said, Let there be lights in the firmament of the heaven to divide the d
 In the original language, the word for seasons is actually "וּלְמ֣וֹעֲדִ֔ים" (ū-lə-mō-w-‘ă-ḏîm or Strong's 4150 "moed") which is used all over the bible to tell us when his appointed times/feast are. They are special, they are days He set appart that he promised us that we could meet with him.
 
 ##### TAGS
-\#moed
+> #moed
 
 ___
 
@@ -37,10 +37,10 @@ ___
 let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also. God set them in the firmament of the heaven to give light upon the earth, to rule over the day and over the night, and to divide the light from the darkness: and God saw that [it was] good.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#flatearth
+> #flatearth
 
 ___
 
@@ -48,10 +48,10 @@ ___
 Thus the heavens and the earth were completed, and all their array.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#creation
+> #creation
 
 ___
 
@@ -63,7 +63,7 @@ By the seventh day God completed His work which He had done, and He rested on th
 The why of the Sabbath and another appointed time (Ref: Leviticus 23:3)
 
 ##### TAGS
-\#moed
+> #moed
 
 ___
 
@@ -74,7 +74,7 @@ But of the tree of the knowledge of good and evil, thou shalt not eat of it: for
 Thusly, we already had eternal life BEFORE Adam disobeyed God
 
 ##### TAGS
-\#thefall
+> #thefall
 
 ___
 
@@ -85,7 +85,7 @@ That's why a man will leave his own father and mother. He marries a woman, and t
 God created marriage. Therefore, no one has the right to redefine what it is.
 
 ##### TAGS
-\#laws \#creation
+> #laws #creation
 
 ___
 
@@ -93,10 +93,10 @@ ___
 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. Then the LORD God called to the man, and said to him, "Where are you?" He said, "I heard the sound of You in the garden, and I was afraid because I was naked; so I hid myself."
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#thefall
+> #thefall
 
 ___
 
@@ -107,7 +107,7 @@ The LORD God made garments of skin for Adam and his wife, and clothed them.
 The very 1st instance of death mentioned in scripture .
 
 ##### TAGS
-\#thefall
+> #thefall
 
 ___
 
@@ -115,10 +115,10 @@ ___
 Now it came about, when men began to multiply  on the face of the land, and daughters were born to them, that the sons of God saw that the daughters of men were beautiful; and they took wives for themselves, whomever they chose. Then the LORD said, "My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years." The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore [children] to them. Those were the mighty men who [were] of old, men of renown. Then the LORD saw that the wickedness of man was great on the earth, and that every intent of the thoughts of his heart was only evil continually. The LORD was sorry that He had made man on the earth, and He was grieved in His heart. 7The LORD said, "I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them."
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#nephilim \#thefall
+> #nephilim #thefall
 
 ___
 
@@ -129,7 +129,7 @@ Then the LORD said to Noah, "Enter the ark, you and all your household, for you 
 How would Noah have known which animals were clean or unclean? This is one of many clear indications (prior to Moses), that God's commandments (the law) weren't established at Mt Sinai. That they must have been established when he first made His covenants with man (Ref Genesis 6:18 for what made Noah righteous in God sight).
 
 ##### TAGS
-\#laws \#cleanandunclean \#thefall
+> #laws #cleanandunclean #thefall
 
 ___
 
@@ -137,10 +137,10 @@ ___
 Canaan became the father of Sidon, his firstborn, and Heth 
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#thefall \#genealogy \#namesmeanthings
+> #thefall #genealogy #namesmeanthings
 
 ___
 
@@ -148,10 +148,10 @@ ___
 Two sons were born to Eber; the name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#thefall \#genealogy \#namesmeanthings
+> #thefall #genealogy #namesmeanthings
 
 ___
 
@@ -162,7 +162,7 @@ Abram passed through the land as far as the site of Shechem, to the oak of Moreh
 Funny they had to NOT mention giants... I'd sure sound a lot more interesting if it read, "the Canaanite [giants who descended from Ham] was then in the land".
 
 ##### TAGS
-\#genesis6experiment \#nephilim
+> #genesis6experiment #nephilim
 
 ___
 
@@ -170,21 +170,21 @@ ___
 And there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. Now the Canaanite and the Perizzite were dwelling then in the land.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS:
-\#arabnation
+> #arabnation
 
 ___
 
-#### Scripture: : Genesis 17:12
+### Scripture: : Genesis 17:12
 NASB And every male among you who is eight days old shall be circumcised throughout your generations, a servant who is born in the house or who is bought with money from any foreigner, who is not of your descendants.
 
 ##### Comments
 Yay! "a servant who is born in the house..." I saw how Jesus says being "born again" ties back into this promise and was blown away. oh yea... circumcision seems like it's a pretty big deal to god. it's mentioned a lot here and throughout the rest of the book. As well as in the last chapters of the next book, also a whole bunch in Leviticus... 
 
 ##### TAGS
-\#foundationliterature4belivers
+> #foundationliterature4belivers
 
 ___
 
@@ -192,10 +192,10 @@ ___
 So Sarah conceived and bore a son to Abraham in his old age, at the appointed time of which God had spoken to him.
 
 ### Comments
-\[Re-Investigate]
+- [ ] Re-Investigate
 
 ##### TAGS
-\#moed, \#laws
+> #moed, #laws
 
 ___
 
@@ -206,7 +206,7 @@ So they made a covenant at Beersheba; and Abimelech and Phicol, the commander of
 Interesting thing, this word " אשל "(eshel) (which here translated as tamarisk) is only used once in the whole Bible. Where it's transliterated as some type of tree (tamarisk) doesn't really fit, because it is not entirely understood why would Abraham randomly plant a tamarisk tree and call on the name of the lord... After looking into this, I found that the idea here, is a play on words where "eshel" is an acronym (3-letters: okel, shethah, shenah) food, drink and sleeping. So in other words, he planted an Inn there and used it to proclaim the God of the Universe to everyone who stops there (which would make much more sense - seeing how hospitable Abraham was to the 3 "strangers" who visited him earlier, right after he was circumcised).
 
 ##### TAGS
-\#mysteriesrevealed
+> #mysteriesrevealed
 
 ___
 
@@ -217,7 +217,7 @@ He said, “Take now your son, your only son, whom you love, Isaac, and go to th
 Found it so cool how the idea of these passages parallel the parsha in Tzav - when you worship God (the way HE wants to be worshipped), it's not about the offering, it's about the one who's offering.
 
 ##### TAGS
-\#mattersoftheheart \#obedience \#scrafices
+> #mattersoftheheart #obedience #scrafices
 
 ___
 
@@ -227,7 +227,8 @@ He spoke to Ephron in the hearing of the people of the land, saying, “If you w
 ### Comment
 Yes, they did have money back then!
 
-##### TAGS: \#titheing
+##### TAGS
+> #titheing
 
 ___
 
@@ -238,7 +239,7 @@ Before he had finished speaking, behold, Rebekah who was born to Bethuel the son
 Genealogy, here's the 1st appearance of Laban
 
 ##### TAGS
-\#genealogy
+> #genealogy
 
 ___
 
@@ -249,7 +250,7 @@ Then his sons Isaac and Ishmael buried him in the cave of Machpelah, in the fiel
 Interesting that they both buried him
 
 ##### TAGS
-\#genealogy \#arabnation
+> #genealogy #arabnation
 
 ___
 
@@ -260,7 +261,7 @@ Then Jacob gave Esau bread and lentil stew; and he ate and drank, and rose and w
 [Re-Investigate] (Ref: Hebrews 12:16)
 
 ##### TAGS
-\#genealogy \#mysteriesrevealed
+> #genealogy #mysteriesrevealed
 
 ___
 
@@ -271,15 +272,15 @@ because Abraham obeyed Me and kept My charge, My commandments, My statutes and M
 Another instance where we see that the God's laws, commandments and decrees have always existed, long before they were given to Moses at Mt Sinai.
 
 ##### TAGS
-\#mysteriesrevealed \#laws
+> #mysteriesrevealed #laws
 
 ___
 
-## Scripture: : Genesis 42:25 NASB
+## Scripture: Genesis 42:25 NASB
 Then Joseph gave orders to fill their bags with grain and to restore every man’s money in his sack, and to give them provisions for the journey. And thus it was done for them.
 
-## Comment
+### Comment
 Wow, they did have money!
 
-##### TAGS:
-\#tithe
+##### TAGS
+> #tithe
