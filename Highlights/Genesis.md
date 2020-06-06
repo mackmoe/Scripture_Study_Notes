@@ -5,7 +5,7 @@ And God called the light Day, and the darkness he called Night. And the evening 
 
 ## Comments
 
-Durring creation God made it so that it is, night then day... one day
+Durring creation God made it so that it is, night then day... one day. Today, most people believe that that a day is from morning evening when really, that is the opposite of how God originally made it to be.
 
 #### TAGS
 
@@ -33,7 +33,7 @@ And God said, Let there be lights in the firmament of the heaven to divide the d
 
 ## Comments
 
-In the original language, the word for seasons is actually "וּלְמ֣וֹעֲדִ֔ים" (ū-lə-mō-w-‘ă-ḏîm or Strong's 4150 "moed") which is used all over the bible to tell us when his appointed times/feast are. They are special, they are days He set appart that he promised us that we could meet with him.
+In the original language, the word for seasons is actually "וּלְמ֣וֹעֲדִ֔ים" (ū-lə-mō-w-‘ă-ḏîm or Strong's 4150 "moed") which is used all over the bible to tell us when his appointed times/feast are. They are special, they are days He set appart that God promised us that we could meet with Him.
 
 #### TAGS
 
@@ -131,7 +131,7 @@ The LORD God made garments of skin for Adam and his wife, and clothed them.
 
 ## Comments
 
-The very 1st instance of death mentioned in scripture .
+The very 1st instance of death mentioned in scripture.
 
 #### TAGS
 
